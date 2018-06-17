@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Proyecto1.0</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_reproductor">Reproductor</string>
+    <string name="title_activity_reproduciendo">Reproduciendo</string>
+    <string name="title_activity_menu_radio">MenuRadio</string>
+</resources>
